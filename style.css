@@ -49,7 +49,7 @@ body{
             max-width: 120px;
         }
                 .container .disk .active{
-                    animation: rotate 3s linear 0s infinite forwards;
+                    animation: rotate 5s linear 0s infinite forwards;
                 }
             .container .disk .cover{
                 width: 145px;
@@ -64,7 +64,7 @@ body{
                 border: 3px solid #fff;
                 border-radius: 50%;
                 box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-                transition: all 0.2s ease-in-out;
+                transition: all 0.5s ease-in-out;
             }
                 .container .disk .circle{
                     position: absolute;
@@ -91,7 +91,7 @@ body{
                 .container .controls #play{
                     background-color: #1db954;
                     color: #fff;
-                    padding: 15px 15px 14px 17px;
+                    padding: 15px 17px 14px 18px;
                     font-size: 28px;
                     border-radius: 50%;
                     transition: all 0.3s ease;
