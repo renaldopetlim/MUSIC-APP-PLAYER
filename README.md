@@ -37,7 +37,7 @@ Se você deseja contribuir para o projeto, siga estas etapas:
 Este projeto é livre para uso e modificação. <br>
 Esse projeto foi desenvolvido a partir de uma aula no Youtube, para fins de prática de código.
 
-- **Vídeo da Aula**: [Assista aqui](https://www.youtube.com/watch?v=YJTKlAvbDo4/)
+- **Vídeo da Aula**: [Assista aqui](https://www.youtube.com/watch?v=SAzB_M2wpR0)
 - **Canal do YouTube AsmrProg**: [Assine aqui](https://www.youtube.com/@AsmrProg)
 - **GitHub de ASMR Prog**: [AsmrProg-YT](https://github.com/AsmrProg-YT/)
 
